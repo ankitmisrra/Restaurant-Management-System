@@ -5,15 +5,15 @@ This system helps restaurant staff improve efficiency and provides an easy-to-us
 
 Tech Stack-
 
-Frontend: HTML, CSS, JavaScript
-Backend: Java Server Page
-Database: MySQL
+Frontend: HTML, CSS, JavaScript   
+Backend: Java Server Page    
+Database: MySQL   
 
 Features-  
 
-Place orders
-View prices of food items
-Feedback facility
-Membership facility
-Employee registration
+Place orders   
+View prices of food items     
+Feedback facility   
+Membership facility   
+Employee registration   
 
